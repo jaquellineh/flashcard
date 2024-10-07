@@ -17,9 +17,10 @@ body{
 
 .cartao_conteudo{
     text-align: center;
-    background-color: darksalmon
+    background-color: darksalmon;
     height: 100%;
 }
+
 footer{
     background-color: black;
     color: white;
@@ -34,3 +35,14 @@ footer p{
     font-size: 0.75rem;
     margin-top: 0.5rem;
 }
+
+.cartao_conteudo h3{
+    background-color: rosybrown;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
+
