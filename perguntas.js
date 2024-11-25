@@ -21,3 +21,18 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em inglês é HI.'
 )
+
+criaCartao(
+    'História',
+    'Quem é o pai da história?',
+    'Heródoto.'
+)
+
+criaCartao(
+    'Arte',
+    'Onde nasceu a arte?',
+    'Continente Africano.'
+)
+
+
+
