@@ -89,4 +89,5 @@ footer p{
 
 .cartao__conteudo__resposta{
     transform: rotate(180deg);
+    background-color: rgba(0, 244, 191, 0.2);
 }
